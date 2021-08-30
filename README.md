@@ -2,6 +2,9 @@
   <a href="#"><img src="https://i.imgur.com/WlcHi3M.png" alt="Logo" width="40%"></a>
 </center>
 
+# FAKEBREAK!
+### This jailbreak is not and has never worked, do not expect anything.
+
 Project for the c0met jailbreak. 
 This jailbreak is an open source project.
 
